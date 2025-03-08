@@ -1,2 +1,2 @@
 # NLP
-My Python homeworks in magister's programm in SPbU
+My NLP projects in SPbU
